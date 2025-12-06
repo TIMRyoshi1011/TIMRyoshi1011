@@ -14,4 +14,5 @@ That's My Wife! I LOVE YOU SETSUNA-CHAN!!!!!
 <img src="./images/JavaScript.png" alt="JavaScript" width="40px">
 <img src="./images/Kotlin.png" alt="Kotlin" width="40px">
 <img src="./images/R.png" alt="R" width="40px">
-<img src="./images/Rust.png" alt="Rust" width="40px">]
+<img src="./images/Rust.png" alt="Rust" width="40px">
+<img src="./images/MySQL.png" alt="MySQL" width="40px">]
