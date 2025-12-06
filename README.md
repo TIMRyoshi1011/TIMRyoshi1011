@@ -4,4 +4,4 @@
 That's My Wife! I LOVE YOU SETSUNA-CHAN!!!!!
 
 ### Programming Languages:
-[<img src="./images/C.png" alt="C" width="40px">][C]
+<img src="./images/C.png" alt="C" width="40px">
