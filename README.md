@@ -4,8 +4,8 @@
 That's My Wife! I LOVE YOU SETSUNA-CHAN!!!!!
 
 ### Programming Languages:
-[<img src="./images/C.png" alt="C" width="40px">]
-[<img src="./images/C++.png" alt="C++" width="40px">]
+[<img src="./images/C.png" alt="C" width="40px">
+<img src="./images/C++.png" alt="C++" width="40px">
 <img src="./images/C#.png" alt="C#" width="40px">
 <img src="./images/Java.png" alt="Java" width="40px">
 <img src="./images/Python.png" alt="Python" width="40px">
@@ -14,4 +14,4 @@ That's My Wife! I LOVE YOU SETSUNA-CHAN!!!!!
 <img src="./images/JavaScript.png" alt="JavaScript" width="40px">
 <img src="./images/Kotlin.png" alt="Kotlin" width="40px">
 <img src="./images/R.png" alt="R" width="40px">
-<img src="./images/Rust.png" alt="Rust" width="40px">
+<img src="./images/Rust.png" alt="Rust" width="40px">]
